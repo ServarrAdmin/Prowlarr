@@ -360,5 +360,12 @@
     "ProxyValidationBadRequest": "프록시를 테스트하지 못했습니다. StatusCode : {statusCode}",
     "BuiltIn": "내장",
     "PublishedDate": "발행일",
-    "AllSearchResultsHiddenByFilter": "적용된 필터에 의해 모든 결과가 숨겨집니다."
+    "AllSearchResultsHiddenByFilter": "적용된 필터에 의해 모든 결과가 숨겨집니다.",
+    "DockerUpdater": "Docker 컨테이너를 업데이트하여 업데이트를 받으십시오.",
+    "Download": "다운로드",
+    "ErrorRestoringBackup": "백업 복원 오류",
+    "ExternalUpdater": "{appName}는 외부 업데이트 메커니즘을 사용하도록 구성됩니다.",
+    "RestartReloadNote": "참고 : {appName}는 복원 프로세스 중에 UI를 자동으로 다시 시작하고 다시로드합니다.",
+    "UpdateAppDirectlyLoadError": "{appName}를 직접 업데이트 할 수 없습니다.",
+    "AptUpdater": "apt를 사용하여 업데이트 설치"
 }
