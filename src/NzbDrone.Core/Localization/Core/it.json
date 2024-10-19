@@ -647,5 +647,16 @@
     "PublishedDate": "Data Pubblicazione",
     "Redirected": "Reindirizzamento",
     "AllSearchResultsHiddenByFilter": "Tutti i risultati sono nascosti dal filtro",
-    "PackageVersionInfo": "{packageVersion} di {packageAuthor}"
+    "PackageVersionInfo": "{packageVersion} di {packageAuthor}",
+    "DockerUpdater": "Aggiorna il container di docker per ricevere l'aggiornamento",
+    "Download": "Scarica",
+    "ErrorRestoringBackup": "Errore durante il ripristino del backup",
+    "ExternalUpdater": "{appName} è configurato per utilizzare un meccanismo di aggiornamento esterno",
+    "LogFilesLocation": "File di Log localizzati in: {location}",
+    "NoEventsFound": "Nessun evento trovato",
+    "RestartReloadNote": "Nota: {appName} si riavvierà automaticamente e ricaricherà l'interfaccia durante il processo di ripristino.",
+    "WouldYouLikeToRestoreBackup": "Vuoi ripristinare il backup '{name}'?",
+    "UpdateAppDirectlyLoadError": "Impossibile aggiornare {appName} direttamente,",
+    "AptUpdater": "Usa apt per installare l'aggiornamento",
+    "InstallLatest": "Installa il più recente"
 }

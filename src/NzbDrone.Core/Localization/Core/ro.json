@@ -477,5 +477,14 @@
     "InfoUrl": "URL informații",
     "PublishedDate": "Data publicării",
     "AllSearchResultsHiddenByFilter": "Toate rezultatele sunt ascunse de filtrul aplicat",
-    "UpdateAvailableHealthCheckMessage": "O nouă versiune este disponibilă: {version}"
+    "UpdateAvailableHealthCheckMessage": "O nouă versiune este disponibilă: {version}",
+    "Download": "Descarca",
+    "ErrorRestoringBackup": "Eroare la restaurarea copiei de rezervă",
+    "UpdateAppDirectlyLoadError": "Imposibil de actualizat direct {appName},",
+    "DockerUpdater": "Actualizați containerul Docker pentru a primi actualizarea",
+    "ExternalUpdater": "{appName} este configurat pentru a utiliza un mecanism de actualizare extern",
+    "NoEventsFound": "Nu s-au găsit evenimente",
+    "RestartReloadNote": "Notă: {appName} va reporni și reîncărca automat interfața de utilizare în timpul procesului de restaurare.",
+    "AptUpdater": "Utilizați apt pentru a instala actualizarea",
+    "InstallLatest": "Instalați cel mai recent"
 }

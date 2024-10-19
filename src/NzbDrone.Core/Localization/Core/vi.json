@@ -363,5 +363,14 @@
     "BuiltIn": "Được xây dựng trong",
     "Script": "Kịch bản",
     "PublishedDate": "Ngày xuất bản",
-    "AllSearchResultsHiddenByFilter": "Tất cả kết quả bị ẩn bởi bộ lọc được áp dụng"
+    "AllSearchResultsHiddenByFilter": "Tất cả kết quả bị ẩn bởi bộ lọc được áp dụng",
+    "AptUpdater": "Sử dụng apt để cài đặt bản cập nhật",
+    "DockerUpdater": "cập nhật vùng chứa docker để nhận bản cập nhật",
+    "Download": "Tải xuống",
+    "NoEventsFound": "Không tìm thấy sự kiện",
+    "ErrorRestoringBackup": "Lỗi khi khôi phục bản sao lưu",
+    "ExternalUpdater": "{appName} được định cấu hình để sử dụng cơ chế cập nhật bên ngoài",
+    "RestartReloadNote": "Lưu ý: {appName} sẽ tự động khởi động lại và tải lại giao diện người dùng trong quá trình khôi phục.",
+    "UpdateAppDirectlyLoadError": "Không thể cập nhật {appName} trực tiếp,",
+    "InstallLatest": "Cài đặt mới nhất"
 }

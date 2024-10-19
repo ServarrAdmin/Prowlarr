@@ -449,5 +449,14 @@
     "Script": "Skript",
     "PublishedDate": "Publiceringsdatum",
     "Redirected": "Omdirigera",
-    "AllSearchResultsHiddenByFilter": "Alla resultat döljs av det tillämpade filtret"
+    "AllSearchResultsHiddenByFilter": "Alla resultat döljs av det tillämpade filtret",
+    "DockerUpdater": "uppdatera dockerbehållaren för att ta emot uppdateringen",
+    "ErrorRestoringBackup": "Fel vid återställning av säkerhetskopian",
+    "NoEventsFound": "Inga händelser hittades",
+    "RestartReloadNote": "Obs! {appName} startar automatiskt om och laddar om användargränssnittet under återställningsprocessen.",
+    "UpdateAppDirectlyLoadError": "Det går inte att uppdatera {appName} direkt,",
+    "AptUpdater": "Använd apt för att installera uppdateringen",
+    "Download": "Ladda ner",
+    "ExternalUpdater": "{appName} är konfigurerad för att använda en extern uppdateringsmekanism",
+    "InstallLatest": "Installera senaste"
 }

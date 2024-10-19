@@ -485,5 +485,19 @@
     "PublishedDate": "Data de publicació",
     "Redirected": "Redirecció",
     "AllSearchResultsHiddenByFilter": "Tots els resultats estan ocults pel filtre aplicat",
-    "HealthMessagesInfoBox": "Podeu trobar més informació sobre la causa d'aquests missatges de comprovació de salut fent clic a l'enllaç wiki (icona del llibre) al final de la fila o consultant els vostres [registres]({link}). Si teniu problemes per a interpretar aquests missatges, podeu posar-vos en contacte amb el nostre suport als enllaços següents."
+    "HealthMessagesInfoBox": "Podeu trobar més informació sobre la causa d'aquests missatges de comprovació de salut fent clic a l'enllaç wiki (icona del llibre) al final de la fila o consultant els vostres [registres]({link}). Si teniu problemes per a interpretar aquests missatges, podeu posar-vos en contacte amb el nostre suport als enllaços següents.",
+    "AptUpdater": "Utilitzeu apt per a instal·lar l'actualització",
+    "DockerUpdater": "actualitzeu el contenidor Docker per a rebre l'actualització",
+    "Download": "Baixa",
+    "ErrorRestoringBackup": "S'ha produït un error en restaurar la còpia de seguretat",
+    "ExternalUpdater": "{appName} està configurat per a utilitzar un mecanisme d'actualització extern",
+    "FailedToFetchUpdates": "No s'han pogut obtenir les actualitzacions",
+    "LogFilesLocation": "Els fitxers de registre es troben a: {location}",
+    "Logout": "Tanca la sessió",
+    "NoEventsFound": "No s'han trobat esdeveniments",
+    "RestartReloadNote": "Nota: {appName} es reiniciarà i tornarà a carregar automàticament la interfície d'usuari durant el procés de restauració.",
+    "TheLogLevelDefault": "El nivell de registre per defecte és \"Info\" i es pot canviar a [Configuració general](/configuració/general)",
+    "UpdateAppDirectlyLoadError": "No es pot actualitzar {appName} directament,",
+    "WouldYouLikeToRestoreBackup": "Voleu restaurar la còpia de seguretat '{name}'?",
+    "InstallLatest": "Instal·la l'últim"
 }

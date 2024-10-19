@@ -360,5 +360,13 @@
     "BuiltIn": "में निर्मित",
     "Script": "लिपि",
     "PublishedDate": "प्रकाशित तिथि",
-    "AllSearchResultsHiddenByFilter": "सभी परिणाम लागू फ़िल्टर द्वारा छिपे हुए हैं"
+    "AllSearchResultsHiddenByFilter": "सभी परिणाम लागू फ़िल्टर द्वारा छिपे हुए हैं",
+    "AptUpdater": "अद्यतन स्थापित करने के लिए उपयुक्त का उपयोग करें",
+    "DockerUpdater": "अपडेट प्राप्त करने के लिए docker कंटेनर को अपडेट करें",
+    "Download": "डाउनलोड",
+    "ErrorRestoringBackup": "बैकअप बहाल करने में त्रुटि",
+    "NoEventsFound": "कोई घटना नहीं मिली",
+    "RestartReloadNote": "नोट: रैडियर स्वचालित रूप से पुनः आरंभ करेगा और पुनर्स्थापना प्रक्रिया के दौरान UI को फिर से लोड करेगा।",
+    "UpdateAppDirectlyLoadError": "सीधे {appName} अद्यतन करने में असमर्थ,",
+    "InstallLatest": "नवीनतम स्थापित करें"
 }

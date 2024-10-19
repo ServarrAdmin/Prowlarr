@@ -699,5 +699,20 @@
     "Redirected": "Uudelleenohjaus",
     "AllSearchResultsHiddenByFilter": "Aktiivinen suodatin piilottaa kaikki tulokset.",
     "HealthMessagesInfoBox": "Saat lisätietoja näiden vakausviestien syistä painamalla rivin lopussa olevaa wikilinkkiä (kirjakuvake) tai tarkastelemalla [lokitietoja]({link}). Mikäli kohtaat ongelmia näiden viestien tulkinnassa, tavoitat tukemme alla olevilla linkkeillä.",
-    "PackageVersionInfo": "{packageVersion} julkaisijalta {packageAuthor}"
+    "PackageVersionInfo": "{packageVersion} julkaisijalta {packageAuthor}",
+    "ErrorRestoringBackup": "Virhe palautettaessa varmuuskopiota",
+    "ExternalUpdater": "{appName} on määritetty käyttämään ulkoista päivitysratkaisua.",
+    "FailedToFetchUpdates": "Päivitysten nouto epäonnistui",
+    "AptUpdater": "Asenna päivitys APT-työkalun avulla",
+    "DockerUpdater": "Hanki päivitys päivittämällä Docker-säiliö",
+    "Download": "Lataa",
+    "LogFilesLocation": "Lokitiedostojen tallennussijainti: {location}",
+    "Logout": "Kirjaudu ulos",
+    "NoEventsFound": "Tapahtumia ei löytynyt",
+    "RestartReloadNote": "Huomioi: {appName} käynnistyy palautusprosessin aikana automaattisesti uudelleen.",
+    "TheLogLevelDefault": "Lokikirjauksen oletusarvoinen laajuus on \"Informatiivinen\". Laajuutta voidaan muuttaa [Yleisistä asetuksista](/settings/general).",
+    "UpdateAppDirectlyLoadError": "{appName}ia ei voida päivittää suoraan,",
+    "UpdaterLogFiles": "Päivittäjän lokitiedostot",
+    "WouldYouLikeToRestoreBackup": "Haluatko palauttaa varmuuskopion \"{name}\"?",
+    "InstallLatest": "Asenna uusin"
 }

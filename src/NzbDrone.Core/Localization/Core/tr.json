@@ -536,5 +536,20 @@
     "HealthMessagesInfoBox": "Satırın sonundaki wiki bağlantısını (kitap simgesi) tıklayarak veya [günlüklerinizi]({link}) kontrol ederek bu durum kontrolü mesajlarının nedeni hakkında daha fazla bilgi bulabilirsiniz. Bu mesajları yorumlamakta zorluk yaşıyorsanız aşağıdaki bağlantılardan destek ekibimize ulaşabilirsiniz.",
     "PackageVersionInfo": "{packageAuthor} tarafından {packageVersion}",
     "LogSizeLimit": "Log Boyutu Sınırı",
-    "LogSizeLimitHelpText": "Arşivlemeden önce MB cinsinden maksimum log dosya boyutu. Varsayılan 1 MB'tır."
+    "LogSizeLimitHelpText": "Arşivlemeden önce MB cinsinden maksimum log dosya boyutu. Varsayılan 1 MB'tır.",
+    "AptUpdater": "Güncellemeyi yüklemek için apt kullanın",
+    "Download": "İndir",
+    "ErrorRestoringBackup": "Yedeği geri yüklerken hata",
+    "ExternalUpdater": "{appName}, harici bir güncelleme mekanizması kullanacak şekilde yapılandırıldı",
+    "LogFilesLocation": "Günlük dosyaları şu konumda bulunur: {location}",
+    "NoEventsFound": "Etkinlik bulunamadı",
+    "RestartReloadNote": "Not: {appName}, geri yükleme işlemi sırasında kullanıcı arayüzünü otomatik olarak yeniden başlatacak ve yeniden yükleyecektir.",
+    "TheLogLevelDefault": "Günlük düzeyi varsayılan olarak 'Bilgi' şeklindedir ve [Genel Ayarlar](/settings/general) bölümünden değiştirilebilir",
+    "UpdateAppDirectlyLoadError": "{appName} doğrudan güncellenemiyor,",
+    "DockerUpdater": "güncellemeyi almak için docker konteynerini güncelleyin",
+    "FailedToFetchUpdates": "Güncellemeler getirilemedi",
+    "Logout": "Çıkış",
+    "UpdaterLogFiles": "Güncelleme Günlük Dosyaları",
+    "WouldYouLikeToRestoreBackup": "'{name}' yedeğini geri yüklemek ister misiniz?",
+    "InstallLatest": "En Sonu Yükle"
 }

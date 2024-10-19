@@ -492,5 +492,14 @@
     "BuiltIn": "Incorporado",
     "PublishedDate": "Data de publicação",
     "AllSearchResultsHiddenByFilter": "Todos os resultados foram ocultados pelo filtro aplicado",
-    "BlackholeFolderHelpText": "Pasta em que {appName} guardará o ficheiro {extension}."
+    "BlackholeFolderHelpText": "Pasta em que {appName} guardará o ficheiro {extension}.",
+    "AptUpdater": "Utilize o apt para instalar a atualização",
+    "DockerUpdater": "atualize o contentor do Docker para receber a atualização",
+    "Download": "Transferência",
+    "ErrorRestoringBackup": "Erro ao restaurar cópia de segurança",
+    "ExternalUpdater": "O {appName} está definido para usar um mecanismo de atualização externo",
+    "NoEventsFound": "Nenhum evento encontrado",
+    "RestartReloadNote": "Nota: o {appName} reiniciará e recarregará automaticamente a IU durante o processo de restauração.",
+    "UpdateAppDirectlyLoadError": "Não foi possível atualizar o {appName} diretamente,",
+    "InstallLatest": "Instalar o mais recente"
 }

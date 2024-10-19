@@ -582,5 +582,18 @@
     "PublishedDate": "Közzététel dátuma",
     "Redirected": "Átirányítás",
     "AllSearchResultsHiddenByFilter": "Az alkalmazott szűrők miatt, az összes keresési eredmény rejtve marad",
-    "HealthMessagesInfoBox": "Az állapotfelmérés okáról további információkat találhat, ha a sor végén található wikilinkre (könyv ikonra) kattint, vagy megnézi [logs] ({link}). Ha nehézségei vannak ezen üzenetek értelmezése során, forduljon ügyfélszolgálatunkhoz az alábbi linkeken."
+    "HealthMessagesInfoBox": "Az állapotfelmérés okáról további információkat találhat, ha a sor végén található wikilinkre (könyv ikonra) kattint, vagy megnézi [logs] ({link}). Ha nehézségei vannak ezen üzenetek értelmezése során, forduljon ügyfélszolgálatunkhoz az alábbi linkeken.",
+    "AptUpdater": "A frissítés telepítéséhez használja az apt-t",
+    "DockerUpdater": "Frissítse a docker-tárolót a frissítés fogadásához",
+    "Download": "Letöltés",
+    "ErrorRestoringBackup": "Hiba a biztonsági mentés visszaállításakor",
+    "ExternalUpdater": "A {appName} egy külső frissítési mechanizmus használatára van konfigurálva",
+    "FailedToFetchUpdates": "Nem sikerült lekérni a frissítéseket",
+    "LogFilesLocation": "A naplófájlok itt találhatók: {location}",
+    "Logout": "Kijelentkezés",
+    "NoEventsFound": "Nem található események",
+    "RestartReloadNote": "Megjegyzés: A {appName} automatikusan újraindítja és újratölti a felületet a visszaállítási folyamatban.",
+    "UpdateAppDirectlyLoadError": "Nem lehetséges közvetlenül frissíteni a {appName}-t",
+    "WouldYouLikeToRestoreBackup": "Szeretné visszaállítani a(z) „{name}” biztonsági másolatot?",
+    "InstallLatest": "Legfrissebb telepítése"
 }

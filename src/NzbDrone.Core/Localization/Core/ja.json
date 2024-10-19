@@ -361,5 +361,14 @@
     "Script": "脚本",
     "BuiltIn": "ビルトイン",
     "PublishedDate": "公開日",
-    "AllSearchResultsHiddenByFilter": "すべての結果は、適用されたフィルターによって非表示になります"
+    "AllSearchResultsHiddenByFilter": "すべての結果は、適用されたフィルターによって非表示になります",
+    "DockerUpdater": "Dockerコンテナを更新して、更新を受信します",
+    "Download": "ダウンロード",
+    "ErrorRestoringBackup": "バックアップの復元中にエラーが発生しました",
+    "ExternalUpdater": "{appName}は、外部更新メカニズムを使用するように構成されています",
+    "NoEventsFound": "イベントが見つかりません",
+    "RestartReloadNote": "注：{appName}は、復元プロセス中にUIを自動的に再起動して再読み込みします。",
+    "UpdateAppDirectlyLoadError": "{appName}を直接更新できません。",
+    "AptUpdater": "aptを使用してアップデートをインストールします",
+    "InstallLatest": "最新のインストール"
 }

@@ -612,5 +612,17 @@
     "BuiltIn": "Eingebaut",
     "PublishedDate": "Veröffentlichungsdatum",
     "Redirected": "Umleiten",
-    "AllSearchResultsHiddenByFilter": "Alle Ergebnisse werden durch den angewendeten Filter ausgeblendet"
+    "AllSearchResultsHiddenByFilter": "Alle Ergebnisse werden durch den angewendeten Filter ausgeblendet",
+    "DockerUpdater": "Aktualisieren Sie den Docker-Container, um das Update zu erhalten",
+    "Download": "Herunterladen",
+    "ErrorRestoringBackup": "Fehler beim Wiederherstellen",
+    "ExternalUpdater": "{appName} wurde so konfiguriert, dass ein externer Update Mechanismus benutzt wird",
+    "NoEventsFound": "Keine Events gefunden",
+    "RestartReloadNote": "Hinweis: {appName} startet während des Wiederherstellungsvorgangs automatisch neu und lädt die Benutzeroberfläche neu.",
+    "TheLogLevelDefault": "Die Protokollebene ist standardmäßig auf „Info“ eingestellt und kann unter „Allgemeine Einstellungen“ (/settings/general) geändert werden.",
+    "UpdateAppDirectlyLoadError": "{appName} kann nicht direkt aktualisiert werden.",
+    "UpdaterLogFiles": "Updater-Protokolldateien",
+    "WouldYouLikeToRestoreBackup": "Willst du das Backup '{name}' wiederherstellen?",
+    "AptUpdater": "Verwenden Sie apt, um das Update zu installieren",
+    "InstallLatest": "Jetzt updaten"
 }

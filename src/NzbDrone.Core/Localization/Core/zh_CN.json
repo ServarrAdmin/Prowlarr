@@ -711,5 +711,20 @@
     "AverageGrabs": "平均抓取次数",
     "AverageQueries": "平均查询次数",
     "DefaultCategory": "默认分类",
-    "DownloadClientSettingsDefaultCategorySubFolderHelpText": "默认的备用分类，当发布资源没有匹配的分类时将使用此分类。为 {appName} 添加一个特定的分类，可以避免与非 {appName} 的无关下载发生冲突。分类是可选的，但强烈建议使用。启用分类后，会在输出目录中创建一个 [分类] 子目录。"
+    "DownloadClientSettingsDefaultCategorySubFolderHelpText": "默认的备用分类，当发布资源没有匹配的分类时将使用此分类。为 {appName} 添加一个特定的分类，可以避免与非 {appName} 的无关下载发生冲突。分类是可选的，但强烈建议使用。启用分类后，会在输出目录中创建一个 [分类] 子目录。",
+    "ErrorRestoringBackup": "恢复备份错误",
+    "UpdaterLogFiles": "更新器日志文件",
+    "WouldYouLikeToRestoreBackup": "是否要还原备份“{name}”?",
+    "AptUpdater": "使用apt安装更新",
+    "DockerUpdater": "更新Docker容器以更新应用",
+    "Download": "下载",
+    "ExternalUpdater": "{appName}配置为使用外部更新机制",
+    "FailedToFetchUpdates": "获取更新失败",
+    "LogFilesLocation": "日志文件位于: {location}",
+    "Logout": "注销",
+    "NoEventsFound": "无事件",
+    "RestartReloadNote": "注意：{appName}将在恢复过程中自动重启并重新加载UI。",
+    "TheLogLevelDefault": "默认的日志等级为 \"Info\"，可以在 [常规设置] 中修改 (/settings/general)",
+    "UpdateAppDirectlyLoadError": "无法直接更新{appName}，",
+    "InstallLatest": "安装最新版"
 }

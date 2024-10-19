@@ -500,5 +500,15 @@
     "Redirected": "Omleiden",
     "AllSearchResultsHiddenByFilter": "Alle resultaten zijn verborgen door het toegepaste filter",
     "Clone": "Kloon",
-    "DownloadClientSettingsUrlBaseHelpText": "Voegt een voorvoegsel toe aan de {connectionName} url, zoals {url}"
+    "DownloadClientSettingsUrlBaseHelpText": "Voegt een voorvoegsel toe aan de {connectionName} url, zoals {url}",
+    "AptUpdater": "Gebruik apt om de update te installeren",
+    "DockerUpdater": "Update de docker container om de update te ontvangen",
+    "ErrorRestoringBackup": "Fout bij het herstellen van de back-up",
+    "ExternalUpdater": "{appName} is geconfigureerd om een extern update mechanisme te gebruiken",
+    "NoEventsFound": "Geen gebeurtenissen gevonden",
+    "RestartReloadNote": "Aantekening: {appName} zal automatisch de Ui herstarten en herladen gedurende het herstel proces.",
+    "UpdateAppDirectlyLoadError": "Kan {appName} niet rechtstreeks updaten,",
+    "WouldYouLikeToRestoreBackup": "Wilt u de back-up {name} herstellen?",
+    "Download": "Downloaden",
+    "InstallLatest": "Installeer Nieuwste Versie"
 }

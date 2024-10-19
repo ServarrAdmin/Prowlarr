@@ -427,5 +427,14 @@
     "Any": "Будь-який",
     "BuiltIn": "Вбудований",
     "PublishedDate": "Дата публікації",
-    "AllSearchResultsHiddenByFilter": "Всі результати приховані фільтром"
+    "AllSearchResultsHiddenByFilter": "Всі результати приховані фільтром",
+    "AptUpdater": "Використовуйте apt для інсталяції оновлення",
+    "DockerUpdater": "Оновіть контейнер docker, щоб отримати оновлення",
+    "UpdateAppDirectlyLoadError": "Неможливо оновити {appName} безпосередньо,",
+    "Download": "Завантажити",
+    "ErrorRestoringBackup": "Помилка відновлення резервної копії",
+    "ExternalUpdater": "{appName} налаштовано на використання зовнішнього механізму оновлення",
+    "NoEventsFound": "Подій не знайдено",
+    "RestartReloadNote": "Примітка: {appName} автоматично перезапуститься та перезавантажить інтерфейс під час процесу відновлення.",
+    "InstallLatest": "Встановити останній"
 }

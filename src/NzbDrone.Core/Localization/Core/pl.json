@@ -415,5 +415,14 @@
     "Connect": "Powiadomienia",
     "Episode": "odcinek",
     "Notifications": "Powiadomienia",
-    "Publisher": "Wydawca"
+    "Publisher": "Wydawca",
+    "Download": "Ściągnij",
+    "ErrorRestoringBackup": "Błąd podczas przywracania kopii zapasowej",
+    "ExternalUpdater": "{appName} jest skonfigurowany do korzystania z zewnętrznego mechanizmu aktualizacji",
+    "NoEventsFound": "Nie znaleziono wydarzeń",
+    "RestartReloadNote": "Uwaga: {appName} automatycznie uruchomi się ponownie i przeładuje interfejs użytkownika podczas procesu przywracania.",
+    "UpdateAppDirectlyLoadError": "Nie można bezpośrednio zaktualizować {appName},",
+    "AptUpdater": "Użyj apt, aby zainstalować aktualizację",
+    "DockerUpdater": "zaktualizuj kontener Dockera, aby otrzymać aktualizację",
+    "InstallLatest": "Zainstaluj najnowsze"
 }

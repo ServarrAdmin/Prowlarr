@@ -418,5 +418,14 @@
     "AddCategory": "הוסף קטגוריה",
     "ActiveApps": "אפליקציות פעילות",
     "ActiveIndexers": "אינדקסרים פעילים",
-    "AllSearchResultsHiddenByFilter": "כל התוצאות מוסתרות על ידי המסנן שהוחל"
+    "AllSearchResultsHiddenByFilter": "כל התוצאות מוסתרות על ידי המסנן שהוחל",
+    "InstallLatest": "התקן את האחרונה",
+    "NoEventsFound": "לא נמצאו אירועים",
+    "DockerUpdater": "עדכן את מיכל העגינה לקבל את העדכון",
+    "Download": "הורד",
+    "ErrorRestoringBackup": "שגיאה בשחזור הגיבוי",
+    "ExternalUpdater": "{appName} מוגדר להשתמש במנגנון עדכון חיצוני",
+    "RestartReloadNote": "הערה: {appName} יופעל מחדש אוטומטית וטען מחדש את ממשק המשתמש במהלך תהליך השחזור.",
+    "UpdateAppDirectlyLoadError": "לא ניתן לעדכן את {appName} ישירות,",
+    "AptUpdater": "השתמש ב- apt כדי להתקין את העדכון"
 }

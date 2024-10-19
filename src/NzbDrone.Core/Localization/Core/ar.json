@@ -361,5 +361,14 @@
     "Script": "النصي",
     "BuiltIn": "مدمج",
     "PublishedDate": "تاريخ النشر",
-    "AllSearchResultsHiddenByFilter": "يتم إخفاء جميع النتائج بواسطة عامل التصفية المطبق"
+    "AllSearchResultsHiddenByFilter": "يتم إخفاء جميع النتائج بواسطة عامل التصفية المطبق",
+    "NoEventsFound": "لم يتم العثور على أحداث",
+    "RestartReloadNote": "ملاحظة: سيتم إعادة تشغيل {appName} تلقائيًا وإعادة تحميل واجهة المستخدم أثناء عملية الاستعادة.",
+    "UpdateAppDirectlyLoadError": "تعذر تحديث {appName} مباشرة ،",
+    "DockerUpdater": "تحديث حاوية عامل الإرساء لتلقي التحديث",
+    "Download": "تحميل",
+    "ErrorRestoringBackup": "خطأ في استعادة النسخة الاحتياطية",
+    "ExternalUpdater": "تم تكوين {appName} لاستخدام آلية تحديث خارجية",
+    "InstallLatest": "تثبيت الأحدث",
+    "AptUpdater": "استخدم apt لتثبيت التحديث"
 }

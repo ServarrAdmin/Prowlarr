@@ -364,5 +364,14 @@
     "Script": "สคริปต์",
     "BuiltIn": "สร้างขึ้นใน",
     "PublishedDate": "วันที่เผยแพร่",
-    "AllSearchResultsHiddenByFilter": "ผลลัพธ์ทั้งหมดถูกซ่อนโดยตัวกรองที่ใช้"
+    "AllSearchResultsHiddenByFilter": "ผลลัพธ์ทั้งหมดถูกซ่อนโดยตัวกรองที่ใช้",
+    "AptUpdater": "ใช้ apt เพื่อติดตั้งการอัปเดต",
+    "Download": "ดาวน์โหลด",
+    "ErrorRestoringBackup": "เกิดข้อผิดพลาดในการกู้คืนข้อมูลสำรอง",
+    "DockerUpdater": "อัปเดตคอนเทนเนอร์นักเทียบท่าเพื่อรับการอัปเดต",
+    "ExternalUpdater": "{appName} ถูกกำหนดค่าให้ใช้กลไกการอัพเดตภายนอก",
+    "NoEventsFound": "ไม่พบกิจกรรม",
+    "RestartReloadNote": "หมายเหตุ: {appName} จะรีสตาร์ทและโหลด UI ใหม่โดยอัตโนมัติในระหว่างกระบวนการกู้คืน",
+    "UpdateAppDirectlyLoadError": "ไม่สามารถอัปเดต {appName} ได้โดยตรง",
+    "InstallLatest": "ติดตั้งล่าสุด"
 }

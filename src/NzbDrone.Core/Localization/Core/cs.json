@@ -423,5 +423,15 @@
     "BuiltIn": "Vestavěný",
     "Script": "Skript",
     "PublishedDate": "Datum zveřejnění",
-    "AllSearchResultsHiddenByFilter": "Všechny výsledky jsou schovány použitým filtrem"
+    "AllSearchResultsHiddenByFilter": "Všechny výsledky jsou schovány použitým filtrem",
+    "DockerUpdater": "aktualizujte kontejner dockeru, abyste aktualizaci obdrželi",
+    "Download": "Stažení",
+    "ErrorRestoringBackup": "Chyba při obnovování zálohy",
+    "ExternalUpdater": "{appName} je nakonfigurován pro použití externího aktualizačního mechanismu",
+    "FailedToFetchUpdates": "Nepodařilo se načíst aktualizace",
+    "NoEventsFound": "Nebyly nalezeny žádné události",
+    "RestartReloadNote": "Poznámka: {appName} se během procesu obnovy automaticky restartuje a znovu načte uživatelské rozhraní.",
+    "UpdateAppDirectlyLoadError": "{appName} nelze aktualizovat přímo,",
+    "AptUpdater": "K instalaci aktualizace použijte apt",
+    "InstallLatest": "Nainstalujte nejnovější"
 }

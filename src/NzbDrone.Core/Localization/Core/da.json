@@ -401,5 +401,14 @@
     "AllSearchResultsHiddenByFilter": "Alle resultater skjules af det anvendte filter",
     "AddApplication": "Tilføj Applikation",
     "AddCategory": "Tilføj Kategori",
-    "ActiveApps": "Aktive Apps"
+    "ActiveApps": "Aktive Apps",
+    "NoEventsFound": "Ingen begivenheder fundet",
+    "AptUpdater": "Brug apt til at installere opdateringen",
+    "DockerUpdater": "opdater docker-containeren for at modtage opdateringen",
+    "Download": "Hent",
+    "ErrorRestoringBackup": "Fejl ved gendannelse af sikkerhedskopi",
+    "ExternalUpdater": "{appName} er konfigureret til at bruge en ekstern opdateringsmekanisme",
+    "RestartReloadNote": "Bemærk: {appName} genstarter automatisk og genindlæser brugergrænsefladen under gendannelsesprocessen.",
+    "UpdateAppDirectlyLoadError": "Kan ikke opdatere {appName} direkte,",
+    "InstallLatest": "Installer senest"
 }

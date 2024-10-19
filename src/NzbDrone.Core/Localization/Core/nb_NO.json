@@ -156,5 +156,7 @@
     "EditIndexerProxyImplementation": "Legg til betingelse - {implementationName}",
     "UnableToAddANewAppProfilePleaseTryAgain": "Ikke mulig å legge til ny betingelse, vennligst prøv igjen",
     "BuiltIn": "Bygget inn",
-    "AllSearchResultsHiddenByFilter": "Alle resultatene er skjult av det anvendte filteret"
+    "AllSearchResultsHiddenByFilter": "Alle resultatene er skjult av det anvendte filteret",
+    "AptUpdater": "Bruk apt til å installere oppdateringen",
+    "Discord": "Discord"
 }

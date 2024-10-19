@@ -208,5 +208,8 @@
     "UnableToAddANewAppProfilePleaseTryAgain": "Neuspješno dodavanje novog profila kvalitete, molimo pokušaj ponovno.",
     "EditIndexerImplementation": "Dodaj Indexer - {implementationName}",
     "AddIndexerProxyImplementation": "Dodaj Indexer - {implementationName}",
-    "UnableToAddANewApplicationPleaseTryAgain": "Neuspješno dodavanje nove obavijesti, molimo pokušaj ponovno."
+    "UnableToAddANewApplicationPleaseTryAgain": "Neuspješno dodavanje nove obavijesti, molimo pokušaj ponovno.",
+    "EditApplicationImplementation": "Dodaj Vezu - {implementationName}",
+    "AptUpdater": "Koristi apt kako bi instalirao ažuriranje",
+    "EditIndexerProxyImplementation": "Dodaj Indexer - {implementationName}"
 }
