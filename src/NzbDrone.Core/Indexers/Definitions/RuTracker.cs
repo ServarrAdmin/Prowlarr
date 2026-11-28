@@ -28,6 +28,9 @@ namespace NzbDrone.Core.Indexers.Definitions
         {
             "https://rutracker.org/",
             "https://rutracker.net/",
+        };
+        public override string[] LegacyUrls => new[]
+        {
             "https://rutracker.nl/"
         };
         public override string Description => "RuTracker.org is a RUSSIAN Semi-Private site with a thriving file-sharing community";
